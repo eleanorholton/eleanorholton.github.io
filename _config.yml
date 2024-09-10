@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Eleanor Holton"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher in Neuroscience"
+  bio              : "Postdoctoral Researcher"
   location         : #"Earth"
   employer         : "University of Oxford"
   uri              : "https://www.psy.ox.ac.uk/people/eleanor-holton"
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=HW-7MmAAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-8162-4151"
+  orcid            : #"https://orcid.org/0000-0002-8162-4151"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
