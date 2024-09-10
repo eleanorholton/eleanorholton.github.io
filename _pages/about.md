@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Eleanor Holton"
+title: #"Eleanor Holton"
 author_profile: true
 redirect_from: 
   - /about/
