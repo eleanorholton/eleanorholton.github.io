@@ -10,7 +10,7 @@
 locale                   : "en-UK"
 title                    : "Eleanor Holton / Princeton Neuroscience Institute"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Eleanor Holton"
 description              : &description "personal description"
 url                      : https://eleanorholton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
