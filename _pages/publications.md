@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Articles
+## Research Articles
 
 **Holton, E.**, Braun, L., Thompson, J.A.F., Grohn, J. & Summerfield, C. (2025). Humans and neural networks show similar patterns of transfer and interference during continual learning. *Nature Human Behaviour*.  
 [Paper](https://www.nature.com/articles/s41562-025-02318-y) | [PDF]({{ site.baseurl }}/files/transfer-interference-tradeoff.pdf)
