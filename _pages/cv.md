@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download (PDF)]({{ site.baseurl }}/files/holton_CV_nov2025.pdf)
+[Download (PDF)]({{ site.baseurl }}/files/holton_CV_july2026.pdf)
 
 ---
 
